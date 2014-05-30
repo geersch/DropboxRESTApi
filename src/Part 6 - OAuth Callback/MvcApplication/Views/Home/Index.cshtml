@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Authentication Callback Demo</h2>
+<p>
+    @using (Html.BeginForm("AuthorizeDropbox", "Home"))
+    {
+        <input type="submit" value="Gimme access to your Dropbox account" />
+    }
+
+</p>
