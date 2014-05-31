@@ -1,7 +1,7 @@
 Dropbox REST API
 ================
 
-Example C# code on how to use the Dropbox REST API.
+A 6-part series tutorial on how to use the Dropbox REST API from C#.
 
 You can find more information about the code on my blog.
 
